@@ -1,44 +1,44 @@
 :root {
-	--color-a: #ea7286;
-	--color-b: #eab281;
-	--color-c: #e3e19f;
-	--color-d: #a9c484;
-	--color-e: #5d937b;
-	--color-f: #58525a;
-	--color-g: #a07ca7;
-	--color-h: #f4a4bf;
-	--color-i: #f5d1b6;
-	--color-j: #eeede3;
-	--color-k: #d6cec2;
-	--color-l: #a2a6a9;
-	--color-m: #777f8f;
-	--color-n: #a3b2d2;
-	--color-o: #bfded8;
-	--color-p: #bf796d;
+    --color-a: #ea7286;
+    --color-b: #eab281;
+    --color-c: #e3e19f;
+    --color-d: #a9c484;
+    --color-e: #5d937b;
+    --color-f: #58525a;
+    --color-g: #a07ca7;
+    --color-h: #f4a4bf;
+    --color-i: #f5d1b6;
+    --color-j: #eeede3;
+    --color-k: #d6cec2;
+    --color-l: #a2a6a9;
+    --color-m: #777f8f;
+    --color-n: #a3b2d2;
+    --color-o: #bfded8;
+    --color-p: #bf796d;
 }
 html, body {
-	background-color: var(--color-i);
-	color: var(--color-f);
+    background-color: var(--color-i);
+    color: var(--color-f);
 }
 
 a {
-  color: var(--color-g);
+    color: var(--color-g);
 }
 
 a:visited {
-  color: var(--color-p);
+    color: var(--color-p);
 }
 
 a:hover {
-  color: var(--color-a);
+    color: var(--color-a);
 }
 
 div {
-	border: 4px solid var(--color-b);
-	padding-left: 1rem;
-	padding-right: 1rem;
-	border-radius: 1rem;
-	width: 80%;
-	max-width: 50em;
-	margin: 0em auto;
+    border: 4px solid var(--color-b);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 1rem;
+    width: 80%;
+    max-width: 50em;
+    margin: 0em auto;
 }
