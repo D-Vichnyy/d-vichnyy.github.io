@@ -22,7 +22,7 @@ html, body {
 }
 
 a {
-  color: var(--color-a);
+  color: var(--color-g);
 }
 
 a:visited {
@@ -30,5 +30,5 @@ a:visited {
 }
 
 a:hover {
-  color: var(--color-g);
+  color: var(--color-a);
 }
