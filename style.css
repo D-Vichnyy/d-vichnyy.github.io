@@ -17,5 +17,18 @@
 	--color-p: #bf796d;
 }
 html, body {
-	background-color: hsv(--color-a);
+	background-color: var(--color-o);
+	color: var(--color-f);
+}
+
+a {
+  color: var(--color-a);
+}
+
+a:visited {
+  color: var(--color-b);
+}
+
+a:hover {
+  color: var(--color-g);
 }
