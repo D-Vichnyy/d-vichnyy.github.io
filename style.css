@@ -17,7 +17,7 @@
 	--color-p: #bf796d;
 }
 html, body {
-	background-color: var(--color-o);
+	background-color: var(--color-i);
 	color: var(--color-f);
 }
 
@@ -26,7 +26,7 @@ a {
 }
 
 a:visited {
-  color: var(--color-g);
+  color: var(--color-p);
 }
 
 a:hover {
