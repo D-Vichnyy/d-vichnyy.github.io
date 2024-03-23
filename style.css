@@ -46,3 +46,7 @@ div {
 li::marker {
     content: '>  ';
 }
+
+span {
+    color: var(--color-e);
+}
